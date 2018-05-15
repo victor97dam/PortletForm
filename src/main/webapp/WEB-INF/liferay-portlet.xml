@@ -10,6 +10,9 @@
 		<footer-portlet-javascript>
 			/js/main.js
 		</footer-portlet-javascript>
+		<footer-portlet-javascript>
+			/js/validator.js
+		</footer-portlet-javascript>
 		<css-class-wrapper>student-portlet</css-class-wrapper>
 	</portlet>
 	<role-mapper>
